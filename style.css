@@ -135,20 +135,7 @@ body {
     align-items: center;
 }
 
-.pre {
-    width: 49px;
-    height: 107px;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: #c9cacc;
-    font-size: 3.5em;
-    border-radius: 5px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 5px;
-}
-
-.next {
+.pre, .next {
     width: 49px;
     height: 107px;
     background-color: rgba(0, 0, 0, 0.5);
